@@ -23,6 +23,7 @@ This repository transforms earlier QA, API, Selenium and Page Object exercises i
 7. [Synthetic project QA / QA на тестовых проектах](docs/07-synthetic-project-qa.md)
 8. [Test matrix and evidence / Test matrix и доказательства](docs/08-test-matrix-and-evidence.md)
 9. [Practice cases / Практические задания](exercises/README.md)
+10. [Game testing case study — Caribbean Merchant](docs/09-game-testing-case-study.md)
 
 ## Core rules / Основные правила
 
